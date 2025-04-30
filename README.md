@@ -1,7 +1,6 @@
 <header>
 
-They requested I add emojis, so...
-😊🤣🤩😶‍🌫️🤑🤡😺😼👁️👄👁️
+They requested I add emojis, so: 😊
 
 # Hello GitHub Actions
 
