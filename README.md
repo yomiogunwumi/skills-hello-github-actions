@@ -1,6 +1,7 @@
 <header>
 
-They requested I add emojis, so: 😊
+They requested I add emojis, so: 😊🤣🤩😶‍🌫️🤑🤡😺😼👁️👄👁️
+You'll notice I've re-added the previously removed emojis. Testing again. Full merge.
 
 # Hello GitHub Actions
 
